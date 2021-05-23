@@ -16,3 +16,17 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### Soy Sebastián Araya, tengo 35 años y actualmente estoy cursando Full Stack Web en la plataforma en Digital House Coding School me gusta la tecnologia, y QA tester en Codo a Codo, me atrae conocer mas sobre la inteligencia artificial y los metodos agiles, tengo bastas experiancias en otras industrias trabajando en equipo y utilizando metodologias agiles orientadas, amo hacer lo que disfruto. Soy solidario, empatico, responsable y comprometido.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Sitios de referencia:
+- [Razer:](https://www.razer.com/)
+Por los productos que ofrecen y la estética que presenta.
+- [Mercado Libre:](https://www.mercadolibre.com.ar)
+Por las funcionalidades implementadas.
+- [Redragon:](https://redragonla.com/)
+Por el publico al que apunta y la estetica implementada.
+- [Tusuper:](https://tusuper.com.ar/)
+Por el estilo usado para mostrar catalogos y catergorias y la funcion del Bot-chat.
+- [Spotify:](https://www.spotify.com/ar/)
+Por la estetica implementada en el Head y el Footer.
+- [Toyota](https://www.toyota.com.ar/)
+Por el boton desplegable de contacto con la empresa y la funcionalidad para compartir en redes sociales.
