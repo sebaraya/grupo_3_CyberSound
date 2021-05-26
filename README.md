@@ -1,6 +1,6 @@
 # Grupo_3_CyberSound
 
-## Ofrecemos productos tanto para todo público como para gamers y profesionales. 
+## Ofrecemos productos y accesorios para gamers, profesionales y para todo público. 
 ## Categorias:
 - Mouse 
 - Teclado
@@ -14,7 +14,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### Soy Matias Sanchez, tengo 24 años y estoy actualmente estudiando para ser un Desarrollador Full Stack, me gusta pasar tiempo en mi pc y otros dispositivos aprendiendo cosas nuevas, adoro la tecnología y los videojuegos. Me considero alguien agradable, confiable y puntual.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#### Soy Sebastián Araya, tengo 35 años y actualmente estoy cursando Full Stack Web en la plataforma en Digital House Coding School me gusta la tecnologia, y QA tester en Codo a Codo, me atrae conocer mas sobre la inteligencia artificial y los metodos agiles, tengo bastas experiancias en otras industrias trabajando en equipo y utilizando metodologias agiles orientadas, amo hacer lo que disfruto. Soy solidario, empatico, responsable y comprometido.
+#### Soy Sebastián Araya, tengo 35 años y actualmente estoy cursando Full Stack Web en la plataforma en Digital House Coding School y QA tester en Codo a Codo, me gusta la tecnologia, me atrae conocer mas sobre la inteligencia artificial y los metodos agiles, tengo bastas experiancias en otras industrias trabajando en equipo y utilizando metodologias agiles orientadas, amo hacer lo que disfruto. Soy solidario, empatico, responsable y comprometido.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Sitios de referencia:
@@ -30,3 +30,5 @@ Por el estilo usado para mostrar catalogos y catergorias y la funcion del Bot-ch
 Por la estetica implementada en el Head y el Footer.
 - [Toyota](https://www.toyota.com.ar/)
 Por el boton desplegable de contacto con la empresa y la funcionalidad para compartir en redes sociales.
+- [Xbox](https://www.xbox.com/es-AR)
+Por la estetica y estilo que presenta.
