@@ -28,7 +28,7 @@ Por el publico al que apunta y la estetica implementada.
 Por el estilo usado para mostrar catalogos y catergorias y la funcion del Bot-chat.
 - [Spotify:](https://www.spotify.com/ar/)
 Por la estetica implementada en el Head y el Footer.
-- [Toyota](https://www.toyota.com.ar/)
+- [Toyota:](https://www.toyota.com.ar/)
 Por el boton desplegable de contacto con la empresa y la funcionalidad para compartir en redes sociales.
-- [Xbox](https://www.xbox.com/es-AR)
+- [Xbox:](https://www.xbox.com/es-AR)
 Por la estetica y estilo que presenta.
