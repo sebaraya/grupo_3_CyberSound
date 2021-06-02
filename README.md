@@ -1,5 +1,7 @@
 # Grupo_3_CyberSound
 
+![Logo CyberSound](/public/wireframes/Logo/Logo.png)
+
 ## Ofrecemos productos y accesorios para gamers, profesionales y para todo público. 
 ## Categorias:
 - Mouse 
