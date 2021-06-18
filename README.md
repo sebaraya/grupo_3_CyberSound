@@ -34,3 +34,7 @@ Por la estetica implementada en el Head y el Footer.
 Por el boton desplegable de contacto con la empresa y la funcionalidad para compartir en redes sociales.
 - [Xbox:](https://www.xbox.com/es-AR)
 Por la estetica y estilo que presenta.
+
+## Tablero de trabajo:
+
+- Link a nuestro [Trello](https://trello.com/b/IIpt2WzS/grupo-3-cybersound).
